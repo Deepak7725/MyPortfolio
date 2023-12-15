@@ -12,6 +12,9 @@ function openFFLink() {
 function openNexxLink() {
     window.open('https://deepak7725.github.io/NexxSample/', '_blank');
 }
+function openDroneLink() {
+    window.open('https://deepak7725.github.io/Drone/', '_blank');
+}
 function openAgencyCode() {
     window.open('https://github.com/Deepak7725/Design_Agency', '_blank');
 }
@@ -20,6 +23,9 @@ function openFFCode() {
 }
 function openNexxCode() {
     window.open('https://github.com/Deepak7725/NexxSample', '_blank');
+}
+function openDroneCode() {
+    window.open('https://github.com/Deepak7725/Drone', '_blank');
 }
 
 
